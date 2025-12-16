@@ -1,3 +1,9 @@
 {
-  "schedules": []
+  "schedules": [
+    {
+      "id": 1765928376034,
+      "name": "Lorenzo Jorge",
+      "when": "2025-12-17T00:00:00.000Z"
+    }
+  ]
 }
