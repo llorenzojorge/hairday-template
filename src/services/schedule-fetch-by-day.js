@@ -14,7 +14,6 @@ export async function scheduleFetchByDay({ date }) {
       dayjs(date).isSame(schedule.when, "day")
     )
 
-    console.log(dailySchedules)
     return dailySchedules
   } catch (error) {
     console.log(error)
